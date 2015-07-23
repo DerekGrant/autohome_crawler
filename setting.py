@@ -22,4 +22,4 @@ domain = "http://car.autohome.com.cn"
 start_url = 'http://car.autohome.com.cn/AsLeftMenu/As_LeftListNew.ashx?typeId=1%20&brandId=0%20&fctId=0%20&seriesId=0'
 
 # 每一页下载等待时间
-wait_sec = 1
+wait_sec = 1 
